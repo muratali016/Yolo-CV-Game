@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/77502485/188268419-4a6eb8ea-9257-48d0-
 
  
 ## Only 2 Steps to run Code
-* You have to downloan this file and add to ypur directory to apply code right:
+* You have to download this file and add it to your directory to apply the code right:
 * https://drive.google.com/file/d/1Zc_DCPG8-BPMxCeZvjziWiH2iF-_u9aZ/view?usp=sharing
 
 
@@ -34,8 +34,7 @@ drive.mount('/content/drive')
 %cd /content/yolov7
 !python /content/Yolo-CV-Game/detect_video_game.py --weights /content/drive/MyDrive/face.pt --source 0
 ```
-* You can manipulatre the code to spawn your bomb random locations also you can add your own images
+* You can manipulate the code to spawn your bomb in random locations also you can add your images
 ### References
 * https://github.com/WongKinYiu/yolov7
 * https://github.com/opencv/opencv
-
