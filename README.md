@@ -5,13 +5,12 @@
 https://user-images.githubusercontent.com/77502485/188268419-4a6eb8ea-9257-48d0-936f-7faaf3d32a9d.mp4
 
 # Webcam Game with Computer Vision
-* **Censoring and counting all cigarettes on the screen and saving smoker's faces in the folder or any database**
+* **This open-source game was created by using Yolov7 and OpenCV. If you are too close to the bomb, the screen will explode! as you see in the video. You can try it also on your webcam.**
 * **Useful for public non-smoking areas**
 * **Code can run on Both (CPU & GPU)**
 * **Video/WebCam/External Camera/IP Stream Supported**
 
 
-https://user-images.githubusercontent.com/77502485/188095525-84964058-0945-463a-9924-1b606007204a.mp4
 
 
 ## It is super easy to run
