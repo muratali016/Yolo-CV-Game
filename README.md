@@ -12,8 +12,8 @@ https://user-images.githubusercontent.com/77502485/188268419-4a6eb8ea-9257-48d0-
 
  
 ## Only 2 Steps to run Code
-You have to downloan this file and add to ypur directory to apply code right:
-https://drive.google.com/file/d/1Zc_DCPG8-BPMxCeZvjziWiH2iF-_u9aZ/view?usp=sharing
+* You have to downloan this file and add to ypur directory to apply code right:
+* https://drive.google.com/file/d/1Zc_DCPG8-BPMxCeZvjziWiH2iF-_u9aZ/view?usp=sharing
 
 
 Install requesting files
