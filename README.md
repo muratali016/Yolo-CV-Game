@@ -37,4 +37,5 @@ drive.mount('/content/drive')
 
 ### References
 * https://github.com/WongKinYiu/yolov7
+* https://github.com/opencv/opencv
 
