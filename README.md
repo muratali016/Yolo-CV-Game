@@ -34,7 +34,7 @@ drive.mount('/content/drive')
 %cd /content/yolov7
 !python /content/Yolo-CV-Game/detect_video_game.py --weights /content/drive/MyDrive/face.pt --source 0
 ```
-
+* You can manipulatre the code to spawn your bomb random locations also you can add your own images
 ### References
 * https://github.com/WongKinYiu/yolov7
 * https://github.com/opencv/opencv
