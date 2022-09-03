@@ -15,7 +15,7 @@ from utils.plots import plot_one_box
 from utils.torch_utils import select_device, load_classifier, time_synchronized, TracedModel
 import cvzone
 
-images_path = '/content/New-Project/images'
+images_path = '/content/Yolo-CV-Game/images'
 listEatable = os.listdir(images_path)
 images = []
 for object in listEatable:
